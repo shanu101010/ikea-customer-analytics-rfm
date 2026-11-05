@@ -137,4 +137,4 @@ This project was developed independently as a learning exercise. A walkthrough b
 
 **Shanmukhi Shikaram**
 
-Aspiring Business Analyst | Data Analytics | UI/UX Design
+AI | Data Science | UI/UX Design
