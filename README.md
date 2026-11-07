@@ -114,10 +114,10 @@ This project is intended for educational and portfolio purposes.
 
 ## Acknowledgment
 
-This project was developed independently as a learning exercise. A walkthrough by Mansi Goel was used as a reference during the learning process.
+This project was developed independently as a learning exercise.
 
 ## Author
 
 **Shanmukhi Shikaram**
 
-AI | Data Science | UI/UX Design
+AI | Data Analytics | UI/UX Design
