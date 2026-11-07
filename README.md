@@ -86,23 +86,6 @@ The dashboard is organized into three pages:
 - Segment-level performance
 - Customer behavior insights
 
-## Repository Structure
-
-```text
-ikea-customer-analytics-rfm/
-│
-├── README.md
-├── python/
-│   └── customer_rfm_analysis.ipynb
-├── powerbi/
-│   └── ikea_customer_analytics.pbix
-├── data/
-│   └── cleaned_retail_data.xlsx
-└── screenshots/
-    └── dashboard_overview.png
-```
-
-*File names and folders can be adjusted to match the files uploaded to the repository.*
 
 ## Dataset
 
